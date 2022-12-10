@@ -1,0 +1,12 @@
+div {
+    margin: 10px 0;
+}
+
+input{
+    margin: 10px 0;
+}
+
+.dark{
+    background-color: black;
+    color:white ;
+}
